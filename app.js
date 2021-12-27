@@ -7,6 +7,4 @@ app.get('/',(req,res)=>{
 });
 
 
-app.listen(9090,()=>{
-console.log("server started at 9090")	
-});
+app.listen();
