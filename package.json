@@ -1,0 +1,22 @@
+{
+  "name": "aalasya_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajpatel2619/aalasya_web.git"
+  },
+  "author": "yathartha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajpatel2619/aalasya_web/issues"
+  },
+  "homepage": "https://github.com/rajpatel2619/aalasya_web#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
